@@ -1,0 +1,5 @@
+$ mkdir project
+$ cd project
+$ git init
+$ ls -a
+. .. .git
